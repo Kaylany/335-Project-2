@@ -1,0 +1,19 @@
+/*
+Author: Kayla Nguyen
+Contact: knguyen1170@csu.fullerton.edu
+Description: This file applies formatting to the webpage
+*/
+
+h {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+canvas {
+    background-color: black;
+}

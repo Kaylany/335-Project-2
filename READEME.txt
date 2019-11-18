@@ -1,0 +1,24 @@
+# CPSC 335
+# Project 2 Asgwilanga Caverns
+# Team Kool
+
+# Team members: Kayla Nguyen
+
+# INTRO
+This project is to write an Html+Javascript program to find a path from the mouth of this cave to one of the innermost cave rooms. Each cave has room-to-room directed links (edges) that obey three rules principles. You begin at the cave mouth which has coordinates (16,0,0). You are attempting to find a route to the "most-central" cave room of he great Asgwilanga Caverns.
+
+# CONTENTS
+main.html , cave.js , styles.css
+
+# EXTERNAL REQUIREMENTS
+Google Chrome Web Browser
+
+# SETUP AND INSTALLATION
+1. Download Zip file.
+2. Drag HTML file into web browser or open HTML file with Google Chrome Web Browser.
+
+# FEATURES 
+Draws some paths on grid based off ruleset.
+
+# BUGS
+None
